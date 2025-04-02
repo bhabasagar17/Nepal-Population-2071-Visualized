@@ -9,9 +9,9 @@ This Power BI project visualizes provincial population data from the 2021 Nepal 
 - **Detailed Breakdown**: Metrics and visuals for a selected province (e.g., population by district within it).
 
 ## Screenshots
-![All Provinces](Screenshots/Sc2.png)  
+![All Provinces](Sc2.png)  
 *Population distribution across all seven provinces.*  
-![Specific Province](Screenshots/Sc1.png)  
+![Specific Province](Sc1.png)  
 *Detailed view of a single province’s population data.*
 
 ## Tools & Technologies
